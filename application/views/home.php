@@ -86,8 +86,7 @@
 		        <li><a href="#" data-scroll-nav="2">Expertism</a></li>
 		        <li><a href="#" data-scroll-nav="3">Experience</a></li>
 		        <li><a href="#" data-scroll-nav="4">Companies</a></li>
-		        <li><a href="#" data-scroll-nav="5">Blog</a></li>
-		        <li><a href="#" data-scroll-nav="6">Contact Me</a></li>
+		       <li><a href="#" data-scroll-nav="5">Contact Me</a></li>
 		      </ul>
 		    </div><!-- /.navbar-collapse -->
 		  </div><!-- /.container -->
@@ -438,7 +437,7 @@
 
 
 		<!--====== Numbers ======-->
-		<div class="numbers section-padding text-center pb-70">
+		<div class="numbers section-padding text-center pb-70" data-scroll-index="4">
 			<div class="container">
 				<div class="row">
 
@@ -483,7 +482,7 @@
 
 
 		<!--====== Contact ======-->
-		<section class="contact section-padding" data-scroll-index="6">
+		<section class="contact section-padding" data-scroll-index="5">
 			<div class="container">
 				<div class="row">
 
