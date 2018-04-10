@@ -213,42 +213,43 @@
 					<!-- items -->
 					<div class="col-md-4">
 						<div class="item">
-							<span class="icon"><i class="fa fa-laptop" aria-hidden="true"></i></span>
+							<span class="icon"><i class="fa  fa-html5" aria-hidden="true"></i>
+                </span>
 							<h6>HTML</h6>
 							<p>HyperText Markup Language is the standard markup language used to create web pages.</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item">
-							<span class="icon"><i class="fa fa-bullhorn" aria-hidden="true"></i></span>
+							<span class="icon"><i class="fa fa-css3" aria-hidden="true"></i></span>
 							<h6>CSS</h6>
 							<p>CSS (Cascading Style Sheets) is the language used to style the content of the website. </p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item">
-							<span class="icon"><i class="fa fa-umbrella" aria-hidden="true"></i></span>
+							<span class="icon"><i class="fa fa-code" aria-hidden="true"></i></span>
 							<h6>Javascript</h6>
 							<p>JavaScript is a lightweight, interpreted programming language. </p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item">
-							<span class="icon"><i class="fa fa-diamond" aria-hidden="true"></i></span>
+							<span class="icon"><i class="fa fa-free-code-camp" aria-hidden="true"></i></span>
 							<h6>PHP</h6>
 							<p>PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose server side scripting language .</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item">
-							<span class="icon"><i class="fa fa-television" aria-hidden="true"></i></span>
+							<span class="icon"><i class="fa fa-database" aria-hidden="true"></i></span>
 							<h6>Mysql</h6>
 							<p>MySQL is an open-source relational database management system (RDBMS). MySQL is ideal for both small and large applications</p>
 						</div>
 					</div>
 					<div class="col-md-4">
 						<div class="item">
-							<span class="icon"><i class="fa fa-camera" aria-hidden="true"></i></span>
+							<span class="icon"><i class="fa fa-shopping-bag" aria-hidden="true"></i></span>
 							<h6>Shopify</h6>
 							<p>Shopify is the leading cloud-based, multi-channel commerce platform designed for small and medium-sized businesses. </p>
 						</div>
@@ -265,7 +266,7 @@
 
 					<!-- section heading -->
 					<div class="section-head">
-						<h3>Portfolio.</h3>
+						<h3>Portfolio</h3>
 					</div>
 
 					<!-- filter links -->
@@ -452,7 +453,7 @@
 
 					<div class="col-md-3">
 						<div class="item">
-							<span class="icon"><i class="fa fa-thumbs-up" aria-hidden="true"></i></span>
+							<span class="icon"><i class="fa fa-file-archive-o" aria-hidden="true"></i></span>
 							<h3 class="counter">6+</h3>
 							<p>Completed Projects</p>
 						</div>
@@ -460,7 +461,7 @@
 
 					<div class="col-md-3">
 						<div class="item">
-							<span class="icon"><i class="fa fa-bullhorn" aria-hidden="true"></i></span>
+							<span class="icon"><i class="fa fa-file-code-o" aria-hidden="true"></i></span>
 							<h3 class="counter">9450</h3>
 							<p>Lines Of Code</p>
 						</div>
@@ -468,7 +469,9 @@
 
 					<div class="col-md-3">
 						<div class="item">
-							<span class="icon"><i class="fa fa-cloud-download" aria-hidden="true"></i></span>
+							<span class="icon">
+                <i class="fa fa-coffee" aria-hidden="true"></i>
+              </span>
 							<h3 class="counter">1780+</h3>
 							<p>Coffees drank</p>
 						</div>
