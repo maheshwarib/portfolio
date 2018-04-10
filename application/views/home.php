@@ -446,7 +446,7 @@
 					<div class="col-md-3">
 						<div class="item">
 							<span class="icon"><i class="fa fa-users" aria-hidden="true"></i></span>
-							<h3 class="counter">29+</h3>
+							<h3 class="counter">29</h3>
 							<p>Months of expirence</p>
 						</div>
 					</div>
@@ -454,7 +454,7 @@
 					<div class="col-md-3">
 						<div class="item">
 							<span class="icon"><i class="fa fa-file-archive-o" aria-hidden="true"></i></span>
-							<h3 class="counter">6+</h3>
+							<h3 class="counter">6</h3>
 							<p>Completed Projects</p>
 						</div>
 					</div>
@@ -472,7 +472,7 @@
 							<span class="icon">
                 <i class="fa fa-coffee" aria-hidden="true"></i>
               </span>
-							<h3 class="counter">1780+</h3>
+							<h3 class="counter">1780</h3>
 							<p>Coffees drank</p>
 						</div>
 					</div>
