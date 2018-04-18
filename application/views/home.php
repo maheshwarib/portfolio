@@ -470,10 +470,10 @@
 					<div class="col-md-3">
 						<div class="item">
 							<span class="icon">
-                <i class="fa fa-coffee" aria-hidden="true"></i>
+                  <i class="fa fa-hourglass-start" aria-hidden="true"></i>
               </span>
-							<h3 class="counter">1780</h3>
-							<p>Coffees drank</p>
+							<h3 class="counter">21170</h3>
+							<p>Hours Spent</p>
 						</div>
 					</div>
 
